@@ -1,4 +1,4 @@
-# Course work - II semester - English
+# Course work - II-nd semester - English
 ## Requirements
 Compile a program to process the array A[N, N], where the elements are real numbers in the interval [-1000; 1000]. The program should perform the following actions:
 1) Input data
@@ -6,7 +6,7 @@ Compile a program to process the array A[N, N], where the elements are real numb
 3) Form a one-dimensional array C, the elements of which are the elements of array A that fall in the specified interval [K-L]
 4) Print the results obtained after processing 2) and 3)
 
-# Курсова работа - II семестър - Български
+# Курсова работа - II-ри семестър - Български
 ## Изисквания
 Да се състави програма за обработка на масива A[N, N], където елементите са реални числа в интервала [-1000; 1000]. Програмата да извърши следните действия:
 1)	Въвеждане на входни данни
